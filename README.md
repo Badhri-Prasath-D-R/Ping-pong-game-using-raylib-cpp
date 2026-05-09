@@ -6,7 +6,9 @@ A classic two-player Ping Pong game built in **C++** using the **Raylib** graphi
 
 ## 📸 Preview
 
-![Ping Pong Gameplay Demo](GIF_FILE.gif)
+<p align="center">
+  <img src="GIF_FILE.gif" alt="Ping Pong Gameplay Demo" width="600">
+</p>
 
 ---
 
